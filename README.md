@@ -1,7 +1,7 @@
 ## Hey! I'm <a href="https://portfolio-raghav.vercel.app">Raghav Arora </a>🙌
 ### I am an IT Undergrad , Developer, Programmer , Tech enthusiast
-- 👨‍🎓 My last role was as a SDE Intern at <a href="https://littleleap.co.in/" target="_blank">Little Leap</a>.
-- 💡 I’m currently learning Reactjs / Nextjs and practicing Data Structures and Algorithms. 
+- 👨‍🎓 I am working as a Software Engineer at <a href="https://www.ofbusiness.com/" target="_blank">OfBusiness</a>.
+- 💡 I’m currently learning Typescript and practicing Data Structures and Algorithms. 
 - 💞️ I’m looking to collaborate for learning and making new projects.
 - 💬 **Ask me** about React, Javascript or anything related to latest tech.
 - 🔥 Open to opportunities.
