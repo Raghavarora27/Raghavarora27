@@ -1,4 +1,4 @@
-## Hey! I'm <a href="https://portfolio-raghav.vercel.app">Raghav Arora </a>🙌
+## Hey! I'm Raghav Arora 🙌
 ### I am an IT Undergrad , Developer, Programmer , Tech enthusiast
 - 👨‍🎓 I am working as a Software Engineer at <a href="https://www.ofbusiness.com/" target="_blank">OfBusiness</a>.
 - 💡 I’m currently learning Typescript and practicing Data Structures and Algorithms. 
