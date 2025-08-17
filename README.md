@@ -1,11 +1,11 @@
 ## Hey! I'm Raghav Arora 🙌
-### I am an IT Undergrad , Developer, Programmer , Tech enthusiast
-- 👨‍🎓 I am working as a Software Engineer at <a href="https://www.ofbusiness.com/" target="_blank">OfBusiness</a>.
-- 💡 I’m currently learning Typescript and practicing Data Structures and Algorithms. 
-- 💞️ I’m looking to collaborate for learning and making new projects.
-- 💬 **Ask me** about React, Javascript or anything related to latest tech.
-- 🔥 Open to opportunities.
-- 😄 **Pronouns**: He/His
+- 👨‍💻 Software Engineer at <a href="https://www.ofbusiness.com/" target="_blank">OfBusiness</a>.
+- 🚀 Working with React, JavaScript, and TypeScript to build scalable web applications.
+- 📚 Strong foundation in Data Structures & Algorithms.
+- 🤝 Open to collaborating on innovative projects and knowledge sharing.
+- 💬 **Ask me** about React, JavaScript, or modern web technologies.
+- 🔥 Open to exciting opportunities.
+- 😄 **Pronouns**: He/Him
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Raghavarora27&label=Views&color=blue&style=plastic&style=for-the-badge" alt="Raghavarora27" /> </p>
  
